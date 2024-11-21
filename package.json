@@ -1,0 +1,12 @@
+{
+  "name": "board_king_sol",
+  "version": "1.0.0",
+  "description": "Full project website source for crypto token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
