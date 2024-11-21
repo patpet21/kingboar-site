@@ -1,8 +1,0 @@
-{
-  "name": "board_king_sol",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'No build step required'"
-  },
-  "dependencies": {}
-}
